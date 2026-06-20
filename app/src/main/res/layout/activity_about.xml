@@ -48,7 +48,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:autoLink="web"
-            android:text="GitHub: https://github.com/yourrepo"
+            android:text="GitHub: https://github.com/amryzulkeply/SmartWatt"
             android:textColor="#1565C0"
             android:paddingTop="10dp"/>
 
